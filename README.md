@@ -222,6 +222,36 @@ Merchants can track orders, view details, manage statuses, and handle refunds. T
 
 ---
 
+Here's an updated section of the script where you can introduce the tech stack used in your project:
+
+---
+
+## Part 5: Tech Stack Overview (2 minutes)
+
+**[Screen: Show Tech Stack Diagram or Icons]**
+
+"Before we wrap up, let me briefly walk you through the tech stack that powers our platform.
+
+**[Screen: Show React Turbo Setup logo or relevant icons]**
+
+For the frontend, I used **React Turbo Setup**, which allows for fast, efficient, and scalable UI development. React Turbo Setup helps us build a highly responsive user interface while keeping everything modular and easy to maintain.
+
+**[Screen: Show Java Spring Boot logo]**
+
+On the backend, for the different subsystems, I used **Java Spring Boot**. It’s a widely-used framework that powers the core business logic and reliability of the system.
+
+**[Screen: Show Spring Cloud and Consul logos]**
+
+For the gateway and service management, I used **Spring Cloud** and **Consul**. Spring Cloud enables seamless microservices architecture, while **Consul** helps with service discovery and configuration management, ensuring all parts of the system work together smoothly.
+
+**[Screen: Show GoLang logo]**
+
+For the CMS-service specifically, I chose **GoLang**. It's known for its performance and efficiency in handling concurrent processes, making it an ideal choice for serving the core CMS functionality.
+
+**[Screen: Show Python LangChain logo]**
+
+Lastly, for the AI-powered features, I utilized **Python LangChain**. This framework allows us to build complex AI workflows by integrating different large language models and external data sources, providing a rich set of capabilities for intelligent interactions.
+
 ## Conclusion (1 minute)
 
 **[Screen: Return to CMS landing page, show all services]**
